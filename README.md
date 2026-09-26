@@ -1,4 +1,3 @@
-# human-factors-in-cybersecurity
 # Human Factors in Cybersecurity
 
 Exploring how people think, feel and make decisions when faced with digital threats, persuasion and uncertainty.
